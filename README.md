@@ -1,7 +1,6 @@
 ### 全自动切换到可以解锁奈飞ip脚本
 ```
-curl -fsSL -o AutoWarpIp.sh
-https://raw.githubusercontent.com/jonyhubber/shadowrocket_conf/master/AutoWarpIp.sh && chmod +x AutoWarpIp.sh && clear && ./AutoWarpIp.sh
+curl -fsSL -o AutoWarpIp.sh  https://raw.githubusercontent.com/jonyhubber/shadowrocket_conf/master/AutoWarpIp.sh && chmod +x AutoWarpIp.sh && clear && ./AutoWarpIp.sh
 ```
 ### 添加crontab脚本任务
 ```
